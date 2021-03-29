@@ -8,6 +8,11 @@ This system uses trademarks and/or copyrights owned by Paizo Inc., which are use
 
 This is not a fully fledged Pathfinder 2e combat simulator (yet.) This project is for fun. I will accept any criticisms and comments however I am not obligated to work on this project.
 
+## Requirements
+
+* Python 3.8+
+* Jupyter
+
 ## Features
 
 TBD
